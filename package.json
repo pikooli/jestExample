@@ -1,0 +1,26 @@
+{
+  "name": "jestexample",
+  "version": "1.0.0",
+  "description": "test jest usage",
+  "private": true,
+  "scripts": {
+    "test": "jest"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pikooli/jestExample.git"
+  },
+  "author": "pikooli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pikooli/jestExample/issues"
+  },
+  "homepage": "https://github.com/pikooli/jestExample#readme",
+  "devDependencies": {
+    "@babel/core": "^7.23.2",
+    "@babel/preset-env": "^7.23.2",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0"
+  }
+}
